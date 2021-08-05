@@ -1,5 +1,7 @@
 package com.acti.pages;
 
-public class EnterTmePage {
+import com.acti.base.DriverScript;
+
+public class EnterTmePage extends DriverScript {
 
 }
